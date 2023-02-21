@@ -1,10 +1,10 @@
-<h1> LEARNING NODE.JS </h1>
+#LEARNING NODE.JS
 
-<h3>THIS LOG DOCUMENTS MY NODE.JS LEARNING JOURNEY</h3>
+####THIS LOG DOCUMENTS MY NODE.JS LEARNING JOURNEY
 
-<h3>INTRODUCTION</h4>
+##INTRODUCTION
 
-<h6>WHAT IS NODE.JS?</h6>
+###WHAT IS NODE.JS?
 
 Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
 
@@ -25,9 +25,8 @@ So, now the definition "Node.js is an open-source, cross-platform JavaScript run
 How does Node.js execute Javascript code outside of a browser?
 Node.js executes Javascript code outside of a browser by using the V8 engine. The V8 engine is the same engine that is used by the Chrome browser to execute Javascript code. So, Node.js is a Javascript runtime environment that uses the V8 engine to execute Javascript code. At the end of the day, we can say that Node.js and a broswer are similar in the sense that they both use an engine to execute Javascript code.
 
-
 But, why would we want to run Javascript code outside of a browser?
-One of the main reasons why we might want to run Javascript code outside of a browser is because we want to build a server. A server is a computer that is always on and is connected to the internet. It is used to store and deliver data to other computers. In order to build a server, we need to use a programming language. So, in order to make a server using Javascript, we need something that enables us to run Javascript code outside of a browser. 
+One of the main reasons why we might want to run Javascript code outside of a browser is because we want to build a server. A server is a computer that is always on and is connected to the internet. It is used to store and deliver data to other computers. In order to build a server, we need to use a programming language. So, in order to make a server using Javascript, we need something that enables us to run Javascript code outside of a browser.
 
 Node.js vs Broswer
 
@@ -46,16 +45,6 @@ b. Javascript is easy to learn. Personally, I consider that going in depth of an
 c. Javascript is extremly important in web development. While there are many frameworks based on many programming languages for the backend, when it comes to frontend, there is a 99.99999% chance that Javascript will be involved.
 
 2. NPM
-NPM or Node Package Manager is a package manager for Node.js. It is the largest ecosystem of open-source libraries in the world. It is a command line tool that allows us to install, share, and distribute code. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. Why do we want NPM. This is because there is no need to reinvent the wheel every time we do a new project.
+   NPM or Node Package Manager is a package manager for Node.js. It is the largest ecosystem of open-source libraries in the world. It is a command line tool that allows us to install, share, and distribute code. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. Why do we want NPM. This is because there is no need to reinvent the wheel every time we do a new project.
 
-3. 
-
-
-
-
-
-
-
-
-
-
+3.
