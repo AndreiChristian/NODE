@@ -39,18 +39,17 @@ One of the main reasons why we might want to run Javascript code outside of a br
 Even thought they are both based on an engine that executes Javascript code, there are some differences between Node.js and a browser. The main difference is that Node.js is not a graphical environment. This means that we cannot use it to create a user interface. However, we can use it to create a server. So, we can use Node.js to create a server that will deliver data to a browser. This is the typical use case for Node.js. So, you cannot google stuff of Node.js but you can make stuff "googleable" with Node.js.(no idea if this is a word)
 
 #### WHY NODE.JS?
-There are many alternatives for building servers. The why is Node.js a good choice?
 
-##### 1. Javascript
+There are many alternatives for building servers. Then why is Node.js a good choice? There are many reasons that could be discuseed when talking about why Node.js is a good choice. However, I will only mention a few of them. I will touch more of them as we progress through this learning journey.
 
-There are various advantages of Node.js using Javascript:
-a. Javascript is a popular languages. This means that when a new project is started, there is a big selection pool of developers that can contribute.
+##### 1. JAVASCRIPT
 
-b. Javascript is easy to learn. Personally, I consider that going in depth of any programming language and otherstading the more delicate concepts is never an easy task, and Javascript is no exception. However, compared to other programming languages, we can say that Javascript is a rather easy to learn languages.
+Javascript is one of the most programming language out there, and the most popular by far when it comes to web development. Even though, popularity does not automatically mean good, it means many things, such as:
 
-c. Javascript is extremly important in web development. While there are many frameworks based on many programming languages for the backend, when it comes to frontend, there is a 99.99999% chance that Javascript will be involved.
+###### 1. There are many resources available for learning Javascript.
 
-##### 2. NPM
-   NPM or Node Package Manager is a package manager for Node.js. It is the largest ecosystem of open-source libraries in the world. It is a command line tool that allows us to install, share, and distribute code. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. Why do we want NPM. This is because there is no need to reinvent the wheel every time we do a new project.
+This means that it is easy to find tutorials, books, courses, etc. that will help you learn Javascript.
 
+###### 2. Great community support.
 
+Chances are that whatever your problem is, there are developers who ran into it already and _pray to god_ they have posted about it on StackOverflow.
