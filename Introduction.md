@@ -42,14 +42,26 @@ Even thought they are both based on an engine that executes Javascript code, the
 
 There are many alternatives for building servers. Then why is Node.js a good choice? There are many reasons that could be discuseed when talking about why Node.js is a good choice. However, I will only mention a few of them. I will touch more of them as we progress through this learning journey.
 
-##### 1. JAVASCRIPT
+1.  JAVASCRIPT
 
 Javascript is one of the most programming language out there, and the most popular by far when it comes to web development. Even though, popularity does not automatically mean good, it means many things, such as:
 
-###### 1. There are many resources available for learning Javascript.
+- There are many resources available for learning Javascript.
 
 This means that it is easy to find tutorials, books, courses, etc. that will help you learn Javascript.
 
-###### 2. Great community support.
+- Great community support.
 
 Chances are that whatever your problem is, there are developers who ran into it already and _pray to god_ they have posted about it on StackOverflow.
+
+- Begginer friendly syntax.
+
+Javascript has a simple sintax which means a relatively lean learning curve. This means that it is easy to get started. However, this does not mean that it is easy to master. It is a very powerful language and it has a lot of features. So, it is easy to get started but it is hard to master.
+
+- Front-end
+
+Lets take a break for just a second! Frontend and backend are separate aspects, former handles what the users see and the latter handles what is happening behind the scenes. Just as in a restaurant, the waiter is the frontend and the chef is the backend. The waiter is the one who takes the order and the chef is the one who cooks the food. The waiter does not know how to cook the food, but the chef does not know how to take the order. So, the waiter and the chef are both important. As you can see, these are two distinct tasks and chances are that a front-end developer does not need to write backend code and vice versa. However, understanding what the task of the other person is, is absolutely crucial.
+
+2.  NPM
+
+NPM is the package manager for Node.js. It is a huge repository of open-source packages that can be used to build applications. It is a great resource for developers because it allows them to focus on building applications instead of reinventing the wheel. This is a very important feature because it allows developers to build applications faster. It also allows developers to build applications that are more secure because they do not have to write the code from scratch. This is because the packages that are available on NPM are written by other developers and they have been tested and reviewed by the community. So, chances are that the packages that are available on NPM are more secure than the ones that are written from scratch.
