@@ -6,4 +6,4 @@ Maybe app is a big word here and this has nothing to do with building a backend 
 
 Simply navigate into the project folder and run the following command:
 
-` node app.js`
+`node app.js`
